@@ -6,7 +6,7 @@ date: 2018-02-16
 comments: false
 ---
     
-<center><a href="https://tobitenno.github.io"><b>MAtej</b></a> is a software developer by day and a code addict by night.</center>
+<center><a href="https://tobitenno.github.io"><b>Matej</b></a> is a software developer by day and a code addict by night.</center>
 
 ## Who am I?
 
