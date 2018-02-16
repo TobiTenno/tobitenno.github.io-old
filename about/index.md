@@ -1,37 +1,27 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Matej
+tags: [personal, about, intro, self]
+date: 2018-02-16
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://tobitenno.github.io"><b>MAtej</b></a> is a software developer by day and a code addict by night.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Who am I?
 
-## Preview
+A software developer at [my current employment](https://cerner.com) since gratuating from college.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+A husband. I've been married for almost 4 years at time of writing this. My wife is important to me.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+A gamer. I grew up playing simple puzzle and Star Wars shooter games on a hand-me-down computer from my eldest brother and still play games, such as [Warframe](https://warframe.com) to this day.
 
-## Getting Started
+A community manager. Along with several other staff, I run the [Warframe Community Discord](https://discord.gg/warframe) and enjoy both hanging out with friends as well as making new ones while giving Tenno, the name of Warframe's players, a safe and welcoming place to talk and play.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+A code tinkerer. At work, I professionally develop code following processes. At home, and in my free time, I spend my time breaking my code a lot to make it do what I like, both for displaying for others, as well as making nice data for them. You can see more info in [here](/projects) about that.
+
+## Contact
+
+The easiest ways to contact me are by ~~fax or telephone~~ [discord message](https://discord.gg/warframe) or [email](mailto:tobiah@protonmail.com).
+
+I'm also available on StackOverflow, Twitter, and if you know me really well, over the telephone.
