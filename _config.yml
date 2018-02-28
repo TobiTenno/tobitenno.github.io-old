@@ -4,7 +4,7 @@ bio:                'The best job is one that is both work and play.'
 description:        "Some Stuff About Matej"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0f3/32f/1a4d148.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
