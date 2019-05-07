@@ -4,11 +4,11 @@ bio:                'The best job is one that is both work and play.'
 description:        "Some Stuff About Matej"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/3/000/0f3/32f/1a4d148.jpg'
+logo:               'https://en.gravatar.com/userimage/51920161/2cf0caa35375ff041058f74a30c99726.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://tobitenno.github.io
+url:                http://matej.voboril.org
 
 # Jekyll
 permalink:          /:title/
@@ -33,33 +33,10 @@ disqus_shortname:   tobitenno.github.io
 google:
   #plus:            #username
   analytics:        UA-47080716-8
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
-#email:
 twitter:            tobitenno
-facebook:           matej.voboril
 github-url:         tobitenno
 stackoverflow:      2518037/matej-voboril
 linkedin:           voborilmatej
-#xing:              username
-#instagram:          username
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
 #hackernews:        username
 
 # Gems
