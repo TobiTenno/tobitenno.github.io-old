@@ -22,6 +22,6 @@ A code tinkerer. At work, I professionally develop code following processes. At 
 
 ## Contact
 
-The easiest ways to contact me are by ~~fax or telephone~~ [discord message](https://discord.gg/warframe) or [email](mailto:tobiah@protonmail.com).
+The easiest ways to contact me are by ~~fax or telephone~~ [discord message](https://discord.gg/warframe) or [email](mailto:tobiah@warframe.gg).
 
-I'm also available on StackOverflow, Twitter, and if you know me really well, over the telephone.
+I'm also available on [StackOverflow](https://stackoverflow.com/users/2518037/matej-voboril), [Twitter](https://twitter.com/tobitenno), and if you know me really well, over the telephone.
